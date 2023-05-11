@@ -1,6 +1,5 @@
 //============================================================================.
 // Name        : M Ejaz.cpp
-// Author      : FAST CS Department
 // Version     : 1.00
 // Copyright   : (c) Reserved
 // Description : Basic 2D game of Rush Hour.
