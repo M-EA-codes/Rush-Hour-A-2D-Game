@@ -4,7 +4,7 @@ This is a basic 2D game implemented using SFML (Simple and Fast Multimedia Libra
 Installation
 Before running the game, make sure to have SFML installed. It can be downloaded from the official website: https://www.sfml-dev.org/download.php
 Clone this repository using the command:
-git clone 
+git clone https://github.com/M-EA-codes/Rush-Hour-A-2D-Game.git
 Compile the game using a C++ compiler that supports SFML, for example g++. On Linux, you can use the following command to compile:
 
 g++ -c -std=c++11 RushHour.cpp -lsfml-graphics -lsfml-window -lsfml-system
